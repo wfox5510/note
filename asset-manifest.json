@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/note/static/css/main.304af85f.css",
+    "main.js": "/note/static/js/main.e74256d2.js",
+    "static/js/787.11e48f93.chunk.js": "/note/static/js/787.11e48f93.chunk.js",
+    "static/media/Delete-button.png": "/note/static/media/Delete-button.7cd3f8873a60d0c8b4af.png",
+    "index.html": "/note/index.html",
+    "main.304af85f.css.map": "/note/static/css/main.304af85f.css.map",
+    "main.e74256d2.js.map": "/note/static/js/main.e74256d2.js.map",
+    "787.11e48f93.chunk.js.map": "/note/static/js/787.11e48f93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304af85f.css",
+    "static/js/main.e74256d2.js"
+  ]
+}
